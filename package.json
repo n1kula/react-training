@@ -11,22 +11,20 @@
     "type": "git",
     "url": "git+https://github.com/n1kula/react-training"
   },
-  "author": "",
+  "author": "Tomek",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/n1kula/react-training/issues"
   },
   "homepage": "https://github.com/n1kula/react-training#readme",
   "dependencies": {
-    "babel-preset-react": "^6.1.18",
-    "babelify": "^7.2.0",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "watchify": "^3.6.1"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.0.0-beta.42",
-    "@babel/preset-env": "^7.0.0-beta.42",
-    "gulp-babel": "^7.0.1"
+    "babel-preset-react": "*",
+    "babelify": "*",
+    "email-validator": "*",
+    "react": "*",
+    "react-dom": "*",
+    "watchify": "*",
+    "whatwg-fetch": "*",
+    "history": "*"
   }
 }
