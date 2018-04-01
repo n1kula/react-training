@@ -1,1 +1,1 @@
-npm start to initioalize main.js file
+npm start togenerate main.js file
